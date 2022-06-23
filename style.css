@@ -151,7 +151,8 @@ nav .fa{
 	padding: 30px 2px;
 }
 .about-col img{
-	width: 100%;
+	width: 105%;
+	margin-top: 2%;
 }
 .about-col p{
 	padding: 15px 0 25px;
